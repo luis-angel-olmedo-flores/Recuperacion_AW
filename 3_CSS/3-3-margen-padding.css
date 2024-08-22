@@ -1,0 +1,16 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+h1{
+    background: #fbff00;
+    /* margin-left: 100px;
+    margin-bottom: 200px;*/
+    /*margin: 100px;*/
+    /*margin: 200px 100px;*/
+    margin: 100px 10px 20px 500px;
+}
+p{
+    background: #1abcee;
+    padding: 100px;
+}

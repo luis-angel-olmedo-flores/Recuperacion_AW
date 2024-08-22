@@ -1,0 +1,18 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+nav{
+    background: #f73838;
+    padding: 20px;
+}
+.columna{
+    background: #0d58e4;
+    color: #ffffff;
+    padding: 20px;
+    width: 25%;
+    margin: 10px;
+}
+.padre{
+    display: flex;
+}

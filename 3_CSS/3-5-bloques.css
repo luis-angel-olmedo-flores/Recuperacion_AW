@@ -1,0 +1,13 @@
+body{
+    font-family: "Poppins", sans-serif;
+    color: #ffffff;
+}
+
+h1{
+    background: rgb(6, 131, 204);
+    display: inline-block;
+}
+a{
+    background: rgb(6, 131, 204);
+    display: block;
+}

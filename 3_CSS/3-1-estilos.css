@@ -1,0 +1,19 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+
+h1{
+    color: rgb(8, 182, 182);
+    font-size: 50px;
+}
+#unico{
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+}
+.azul{
+    color: rgb(0, 26, 255);
+}
+.fondo{
+    background: #444;
+}

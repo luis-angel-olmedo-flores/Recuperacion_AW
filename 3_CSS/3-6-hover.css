@@ -1,0 +1,13 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+button{
+    background: #1140db;
+    color: #bde4f4;
+}
+button:hover{
+    background: #d30000;
+}
+button:active{
+    background: #df0303;
+}
